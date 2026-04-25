@@ -1,1 +1,1 @@
-# IoT-Lab-1-EE284A
+# IoT-EE284A
